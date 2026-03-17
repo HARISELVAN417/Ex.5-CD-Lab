@@ -2,7 +2,7 @@
 # RECOGNITION OF THE GRAMMAR(a^nb where n>=10) USING YACC
 ## Name: HARISELVAN S
 ## Register Number:212224040103
-
+## Date: 03-03-2026
 ## AIM:
 To write a YACC program to recognize the grammar a^nb where n>=10.
 ## ALGORITHM:
